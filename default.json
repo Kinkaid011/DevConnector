@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://kinkaid2020:kinkaid2020@devconnector.ynitz.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken",
+    "githubClientId": "2f36e2d5d3ba2157c004",
+    "githubSecret": "40545126715b30701efbc449a662ae4ae761d973"
+}
